@@ -6,7 +6,7 @@ import jdk.jfr.Enabled;
 
 import java.util.List;
 
-@Enabled
+@Entity
 @Table(name="users_type")
 public class UsersType {
 
